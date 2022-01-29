@@ -1,18 +1,18 @@
 # Site Settings
-title: postkomik
-email: alwyahmad23@gmail.com
+title: xiaoyan
+email: halanbotak@gmail.com
 description: Situs baca manga bahasa indonesia online
 logo: 'assets/images/logo.png'
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://postkomik.netlify.app" # the base hostname & protocol for your site
+url: "https://infallible-turing-10bc2c.netlify.app" # the base hostname & protocol for your site
 google_analytics: 
 
 include: ["_pages"] 
 
 # User Settings
-username: postkomik
+username: xiaoyan
 user_description: Pengurus web
-disqus_shortname: postkomik-github-1
+disqus_shortname: xiaoyan
 
 # Social Media
 # Remove the item if you don't need it
